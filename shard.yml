@@ -1,0 +1,9 @@
+name: lib_glew
+version: 0.1.0
+
+authors:
+  - Max Berends <max@maxberends.nl>
+
+crystal: 0.20.5
+
+license: MIT
