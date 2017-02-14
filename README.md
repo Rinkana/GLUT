@@ -1,4 +1,5 @@
 # lib_glew
+[![Build Status](https://travis-ci.org/Rinkana/lib_glew.svg?branch=master)](https://travis-ci.org/Rinkana/lib_glew)
 
 Library to expose the GLEW API to Crystal.
 The original API mapping is made by [ggiraldez](https://github.com/ggiraldez/crystal-gl)
