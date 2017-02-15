@@ -1,5 +1,3 @@
-require "./gl.cr"
-
 @[Link("glew")]
 lib LibGLEW
   OK = 0
