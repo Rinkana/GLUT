@@ -1,6 +1,6 @@
 require "./spec_helper"
 
-describe LibGLEW do
+describe "LibGLEW" do
   # TODO: Write tests
 
   it "works" do
